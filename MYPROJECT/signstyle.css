@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url('back.jpg');
+    background-position: center;
+    background-size: cover;
+
+
+}
+.signup-form{
+    width:300px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+    margin : 8% auto 0;
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.signup-form h1{
+    margin-top: -5;
+    color: blue;
+}
+.input-field{
+border-radius: 20px;
+border: 1px solid #999;
+margin: 10px 0;
+width:100%;
+padding: 10px;
+outline:none;
+}
+
+button{
+    color:white;
+    margin: 10px 0;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    width:100%;
+    padding:10px;
+    font-size: 15px;
+    outline: none;
+}
+.signup{
+    background-color: #12adde;
+}
+a{text-decoration: none;
+color:red;}
+.login{
+    background-color: #21aced;
+}
+hr{
+    width: 80%;
+    margin-top:20px;
+}
+
+.or{
+    background: aliceblue;
+    width:30px;
+    margin: -19px auto 10px;
+}
+.Remember{
+    text-align: left;
+}
+img{
+    width:70px;
+    margin: -50px;
+}
